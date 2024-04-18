@@ -1,0 +1,15 @@
+#container{
+  text-align: center;
+   background-color: grey;
+}
+
+#search{
+    height: 30px;
+    width: 350px;
+    margin-bottom: 10px;
+}
+#but{
+    height: 35px;
+    width: 100px;
+}
+
